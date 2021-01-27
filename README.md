@@ -1,7 +1,7 @@
 # AIST_PNP 
-神山・鈴木(産総研)作のコードをベースに一部変更したものである。
-
-This is a partial modification based on the code written by Kouyama and Suzuki (AIST).
+ 本コードは神山・鈴木(産総研)作のコードをベースに一部変更・改良したもの。
+ 
+ This code is based on the code written by Kouyama and Suzuki (AIST) and its modification.
 
 # 使い方　How to use
 事前に用意するべきデータ
