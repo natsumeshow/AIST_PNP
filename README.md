@@ -1,4 +1,8 @@
 # AIST_PNP 
+神山・鈴木(産総研)作のコードをベースに一部変更したものである。
+
+This is a partial modification based on the code written by Kamiyama and Suzuki (AIST).
+
 # 使い方　How to use
 事前に用意するべきデータ
 
