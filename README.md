@@ -17,6 +17,7 @@ Unity上で作成した「1_26_img_4044_real2model_y.dat」ファイルが入っ
    This datt file contains the world coordinate information of the model image that corresponds to the real image.
 
 2. img_4044.csv ようなcsvファイルを用意する。
+   
    img_4044.csvはreal画像とmodel画像間の対応点座標が入ってる。
 
    Prepare a csv file like img_4044.csv.
