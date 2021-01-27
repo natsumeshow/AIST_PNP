@@ -19,7 +19,7 @@ Data to be prepared in advance
    
   
 Jupyter notebookで上記のデータを用意すれば、
-fnameのpathをdatファイルに指定して、コードが実行できると思います。
+fnameのpathをdatファイルに指定して、pnp.ipynbコードが実行できると思います。
 
 If you prepare the above data with Jupyter notebook,
-I think you can execute the code by specifying the path of fname in the dat file.
+I think you can execute the pnp.ipynb code  by specifying the path of fname in the dat file.
