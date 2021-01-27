@@ -1,6 +1,7 @@
 # AIST_PNP 
-# 使い方
+# 使い方　How to use
 事前に用意するべきデータ
+
 Data to be prepared in advance
 
 1. dat_fileディレクトリの中に、
